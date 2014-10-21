@@ -3,7 +3,6 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git tracks changes.
 abc
-a
 feature
 1
 ===========master commit
